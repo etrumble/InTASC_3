@@ -1,5 +1,6 @@
 <p>The teacher works with others to create environments that support individual and collaborative learning, and that encourage positive social interaction, active engagement in learning, and self motivation.</p>
 <h4>PDFs</h4>
+<p><a href="InTASC%203%20Design%20plan.pdf">Classroom Management Design Plan</a></p>
 
 <p>Abstract: In this document I will state how I think classroom and school culture should present for students. School should always be a positive and encouraging place that students feel safe and welcome in. That will translate to my own classroom culture, where my students and I have mutual respect. I believe that students are motivated more when they know their teacher cares and respects them; I have evidence of that from observations in multiple schools and my own working experience as a gymnastics instructor. My classroom culture will be playful and fun, yet professional and focused on student achievement and learning.</p>
 <h3 align="center">Classroom Management Design Plan</h3>
