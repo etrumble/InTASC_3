@@ -60,3 +60,15 @@
 <p>Ideas I have for my future classroom to build this culture of learning and achievement are student-teacher relationships and mutual respect, as I said above. I am good at learning and remembering names, so I will begin memorizing them as soon as school starts with the goal of having everyone by the end of the second week. Addressing students by name when they enter and leave the classroom is a great sign of respect. I will also have students fill out a paper so I can learn more about them; this will include hobbies, nicknames, personal pronouns, and contact information. On the very first day of school, I will have a poster made of yellow or another bright color, with a list of my expectations on it. During class I will project my computer and ask students what they’re expectations are for themselves and for me. I will type these out as students say them so that there are no overlaps, and I will make a new word document for each class so that students feel like they are truly coming up with the ideas, that they are included in the decision making process. Another way I will promote my classroom culture is by interacting with parents. When teachers call, it is usually about a problem; but as a teacher I will also call or email parents when something positive happens, that way they also know I care for their children. I also plan on interacting with students in a professional but playful manner, much like I do others in my life. I truly believe that if students notice my normal interactions with them, they will respect me more because it is evident that I am treating them like a person, not a little child. I have evidence of this fact from my previous years a gymnastics instructor and I will continue to do so in my future classroom. </p>
 <p>A classroom culture that is inviting and playful is important for students to feel welcome and included. As a student I saw evidence of that, and as a teacher I do as well. When a student is in a good environment, they are more motivated to learn and grow. These cultures can be planned out in a school and a classroom, and it may take effort but it will all be worth it for the students that come into my classroom ready to learn. </p>
 		
+
+<h2 align="center">Portfolio Entries</h2>
+<p align="center"><a href="https://etrumble.github.io/Emily-Trumble-Portfolio/">Introduction</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_1/">InTASC 1</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_2/">InTASC 2</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_3/">InTASC 3</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_4/">InTASC 4</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_5/">InTASC 5</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_7/">InTASC 7</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_8/">InTASC 8</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_10/">InTASC 10</a></p>
+<p align="center"><a href="https://etrumble.github.io/Technology_Standard/">Technology Standard</a></p>
